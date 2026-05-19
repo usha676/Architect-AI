@@ -62,7 +62,7 @@ Architect-AI/
 1. Clone the repository
 
 Bash
-git clone [https://github.com/imnismay/Architect-AI.git](https://github.com/imnismay/Architect-AI.git)
+git clone [https://github.com/usha676/Architect-AI]
 cd Architect-AI
 2. Install dependencies
 Make sure you have Python installed, then run:
@@ -95,6 +95,7 @@ External Resumes: Inside the ATS Analyzer modal, you can upload an existing PDF 
 Export: Click Export PDF to save your masterpiece.
 
 👨‍💻 Author
-MAYUR Computer Science Engineer & Founder of NISMAY Studios
+Usha rani 
+Developer & AI Enthusiast
 
 Advocate of 'Vibe Coding'—an approach focused on rapid prototyping and the intuitive "feeling" of the final product, using AI as a conductor to orchestrate complex logic beyond rigid syntax constraints.
